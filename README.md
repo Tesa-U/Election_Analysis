@@ -4,6 +4,7 @@
 A Colorado Board of Elections employee has given tasks to complete the election audit of a recent local congressional election and provided with CSV file.
 # Election-Audit Results: 
 -	Total number of votes cast
+
 ![plot](./Resources/pic1.png) 
 -	Number and percentage of votes for each candidate 
 ![plot](./Resources/pic2.png)
